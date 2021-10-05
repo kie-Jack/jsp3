@@ -9,6 +9,9 @@
 <body>	<!-- a태그 href 는 요청메소드 GET 입니다. -->
 <a href="first.dev">첫번째 서블릿</a>	<br>
 <a href="second.dev">두번째 서블릿</a> <br>
-<a href="3th.dev">세번째 서블릿</a>
+<a href="3th.dev">세번째 서블릿</a>	<br>
+<hr>
+<a href="other.ic">FrontController 테스트1</a> <br>
+<a href="test.ic">FrontController 테스트2</a>	<br>
 </body>
 </html>
