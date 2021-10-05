@@ -16,10 +16,10 @@
    -->
   	<servlet>
   		<servlet-name>first</servlet-name>
-  		<servlet-class>com.jcpdev.action.Login</servlet-class>
+  		<servlet-class>com.jcpdev.action.FirstServlet</servlet-class>
   	</servlet>
   	<servlet-mapping>
   		<servlet-name>first</servlet-name>
-  		<url-pattern>/first.jcp</url-pattern>
+  		<url-pattern>/first.dev</url-pattern>
   	</servlet-mapping>
 </web-app>
